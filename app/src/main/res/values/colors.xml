@@ -1,0 +1,10 @@
+<resources>
+    <color name="brand_pink">#E2136E</color>
+    <color name="brand_pink_dark">#B00E58</color>
+    <color name="bg_light">#F5F6FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B6B7B</color>
+    <color name="status_ok">#1E9E5A</color>
+    <color name="status_bad">#D0342C</color>
+</resources>
